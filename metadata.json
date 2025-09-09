@@ -1,0 +1,6 @@
+{
+  "name": "Chat with Docs",
+  "description": "Chat with Gemini to explore and understand documents using the URL Context tool.",
+  "requestFramePermissions": [],
+  "prompt": ""
+}
